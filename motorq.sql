@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 29, 2021 at 05:28 AM
+-- Generation Time: Aug 29, 2021 at 08:45 AM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.9
 
@@ -71,7 +71,9 @@ INSERT INTO `class` (`id`, `courseCode`, `faculty`, `building`, `day`, `time`) V
 ('VLR1007', 'CSE1004', 'Mohan Kumar', 'SJT', 'Tuesday', '11am-12am'),
 ('VLR1008', 'CSE1004', 'Dinesh Vijan', 'TT', 'Friday', '10am-11am'),
 ('VLR1009', 'CSE1004', 'Seetha R', 'TT', 'Wednesday', '1pm-2pm'),
-('VLR1010', 'CSE1004', 'Senthil Kumar', 'CDMM', 'Monday', '10am-11am');
+('VLR1010', 'CSE1004', 'Senthil Kumar', 'CDMM', 'Monday', '10am-11am'),
+('VLR1012', 'CSE1002', 'Prabha S', 'TT', 'Wednesday', '3pm-4pm'),
+('VLR1015', 'CSE1004', 'Murali S', 'SJT', 'Wednesday', '2pm-3pm');
 
 -- --------------------------------------------------------
 
@@ -127,13 +129,6 @@ CREATE TABLE `student` (
   `Username` varchar(20) NOT NULL,
   `ClassID` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Dumping data for table `student`
---
-
-INSERT INTO `student` (`Username`, `ClassID`) VALUES
-('abhinav8701', 'VLR1006');
 
 --
 -- Indexes for dumped tables
