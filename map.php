@@ -100,7 +100,7 @@ include('connection.php');
         const myMap = L.map('map').setView([12.970710,79.159341], 15);
 const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 const attribution =
-        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Coded by coder\'s gyan with ❤️';
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Coded by Abhinav Chawla';
 const tileLayer = L.tileLayer(tileUrl, { attribution });
 tileLayer.addTo(myMap);
 
