@@ -12,7 +12,7 @@ session_start();
     <section>
         <!--Navigation bar-->    
     <header>
-    <a href="welcome.html" class="logo">MyTime</a>
+    <a href="welcome.php" class="logo">MyTime</a>
 
    
         <ul>
