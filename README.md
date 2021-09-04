@@ -1,7 +1,5 @@
 # Timeable Manager
 
-This is a website made for submission in Application Engineering round of MotorQ Intern Hiring 2021.
-
 To run this website on local system follow the below steps:
 
 1) Download Xampp server from: https://www.apachefriends.org/download.html
