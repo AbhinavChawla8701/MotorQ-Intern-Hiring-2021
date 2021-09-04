@@ -1,4 +1,4 @@
-# Timeable Manager
+# Timetable Manager
 
 To run this website on local system follow the below steps:
 
