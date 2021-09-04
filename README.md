@@ -1,8 +1,6 @@
-# MotorQ-Intern-Hiring-2021
+# Timeable Manager
 
 This is a website made for submission in Application Engineering round of MotorQ Intern Hiring 2021.
-
-Video Link : https://youtu.be/2T3ig9h2bYc
 
 To run this website on local system follow the below steps:
 
